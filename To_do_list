@@ -1,0 +1,3 @@
+java HelloServer -ORBIni tialPort 1050 -ORBInitialHost localh
+
+ost
