@@ -1,0 +1,1 @@
+java HelloClient -ORBI nitialPort 1050 -ORBInitialHost Loc alhost
